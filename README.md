@@ -47,6 +47,34 @@ README.md
 
 # Live Project Links
 
+## Task 1 — JavaScript Refresher
+
+Live URL:
+https://abraham3stack.github.io/student-score-dashboard
+
+---
+
+## Task 2 — Version Control
+
+Live URL:
+https://abraham3stack.github.io/git-workflow-practice
+
+---
+
+## Task 3 — React Fundamentals
+
+Live URL:
+https://react-task-manager-roan-phi.vercel.app
+
+---
+
+## Task 4 — REST API Integration
+
+Live URL:
+https://api-user-dashboard-ashy.vercel.app
+
+---
+
 ## Task 5 — React Hooks Dashboard
 
 Live URL:
@@ -78,21 +106,21 @@ https://mui-component-dashboard.vercel.app
 ## Task 9 — React Testing Demo
 
 Live URL:
-(Add deployed URL)
+https://react-testing-demo-zeta.vercel.app
 
 ---
 
 ## Task 10 — React Router SPA
 
 Live URL:
-(Add deployed URL)
+https://react-router-spa.vercel.app
 
 ---
 
 ## Task 11 — JavaScript Algorithms Demo
 
 Live URL:
-(Add deployed URL)
+https://javascript-algorithms-demo.vercel.app/
 
 ---
 
